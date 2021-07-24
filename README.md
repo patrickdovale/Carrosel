@@ -11,8 +11,6 @@ Projeto realizado com o intuito de provar minha capacitação de desenvolvimento
 
 ### 🔧 Instalação
 
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
-
 1. Clonar Repositório
 
 ```
