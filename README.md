@@ -1,6 +1,6 @@
 # Carrossel
 
-Projeto realizado com o intuito de provar minha capacitação de desenvolvimento Front-End, para o processo seletivo da empresa upLexis Tecnologia.
+Projeto realizado com o intuito de treinar minhas habilidades em desenvolvimento Front-End.
 
 ## 🚀 Tecnologias
 
@@ -23,7 +23,7 @@ git clone https://github.com/patrickdovale/Carrosel.git
 npm install
 ```
 
-2. Iniciar a Aplicação
+3. Iniciar a Aplicação
 
 ```
 npm start
